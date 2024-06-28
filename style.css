@@ -1,0 +1,44 @@
+body{
+    color: #f2f2f2;
+    background-image: linear-gradient(#CCA7D3, #C29ADC, #CE91B1, #DEAC9A);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.lcname{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: auto;
+}
+
+.lclogo{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+}
+
+.jtjlogo{
+    width: 50px;
+    height: auto;
+    background: transparent;
+}
+
+p{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
